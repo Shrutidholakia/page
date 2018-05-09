@@ -1,0 +1,78 @@
+.home h1 {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: justify !important;
+  color: Darkblue !important;
+  font-family: 'Do Hyeon', sans-serif;
+  padding-left: 150px;
+}
+.circle{
+  padding-left: 300px;
+
+}
+.c1{
+  float: left;
+  background-color: #00FFFF !important;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center !important;
+  color: white !important;
+  font-family: 'Gugi';
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.c2{
+  float: left;
+  background-color: #FA8072 !important;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center !important;
+  color: white !important;
+  font-family: 'Gugi';
+  margin-left: 2rem;
+  margin-right: 2rem;
+
+}
+.c3{
+  float: left;
+  background-color: #FFD700 !important;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center !important;
+  color: white !important;
+  font-family: 'Gugi';
+  margin-left: 2rem;
+  margin-right: 2rem;
+
+}
+
+.home p {
+  font-size: 15px;
+  text-align: justify !important;
+  color: Black !important;
+  font-family: serif;
+  padding-left: 150px;
+}
+.image{
+  border-radius: 60%;
+  width: 330px;
+  height: 330px;
+}
+body{
+  background-color: #B0E0E6 !important;
+}
+.col-md-3 {
+  float: left;
+}
+.col-md-9{
+  float: right;
+}

@@ -1,0 +1,36 @@
+ h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left !important;
+  color: black !important;
+  font-family: 'Roboto', sans-serif;
+  padding-left: 500px;
+  border-bottom-style:
+}
+
+ p {
+  font-size: 15px;
+  text-align: justify !important;
+  width: 100%;
+  color: Black !important;
+  font-family: serif;
+}
+ h2 {
+  font-size: 30px;
+  font-weight: normal;
+  font-family: 'Oswald', sans-serif;
+  color: #000000 !important;
+  border-bottom: 1px solid;
+}
+
+li{
+  font-size: 15px;
+  color: black !important;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+ .work{
+  font-size:20px;
+  color: Black !important;
+  font-family: bold serif;
+}

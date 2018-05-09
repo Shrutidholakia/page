@@ -12,11 +12,13 @@ class Navbar extends React.Component{
         <nav className="navbar navbar-default">
           <div className= "container-fluid">
             <div className="navbar-header">
-              <a className="navbar-brand" href="#top">Portfolio</a>
+              <a className="navbar-brand" href="#top">Shruti Dholakia</a>
             </div>
             <ul className="nav justify-content-end">
-              <li class="nav-link"><NavLink to="/about-me" activeClassName="active">About Me</NavLink></li>
-              <li class="nav-link"><NavLink to="/blog" activeClassName="active">Blog</NavLink></li>
+              <li className="nav-link"><NavLink to="/home" activeClassName="active">Home</NavLink></li>
+              <li className="nav-link"><NavLink to="/resume" activeClassName="active">Resume</NavLink></li>
+              <li className="nav-link"><NavLink to="/projects" activeClassName="active">Projects</NavLink></li>
+              <li className="nav-link"><NavLink to="/contact" activeClassName="active">Contact</NavLink></li>
             </ul>
           </div>
         </nav>
